@@ -6,7 +6,7 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
     width: 650px;
-    margin: 10px auto;
+    margin: 10px;
     border: 8px double blue;
 }
 main {
@@ -29,7 +29,7 @@ h3 {
     padding-top: 1em;
 }
 p, blockquote, ul, li {
-    margin-bottom: 12px;
+    margin-bottom: 5px;
 }
 cite {
     color: blue;
