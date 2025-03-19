@@ -40,10 +40,11 @@ blockquote {
     margin: 0;
 }
 ul {
-
+    margin: .5em;
+    padding: 0 .5em;
 }
 li {
-
+    padding: .15em;
 }
 cite {
     color: blue;
