@@ -37,7 +37,7 @@ p {
     margin-bottom: 5px;
 }
 blockquote {
-    margin: 0;
+    margin: .3em 0;
 }
 ul {
     margin: .5em;
@@ -52,12 +52,13 @@ cite {
 }
 p.cite-paragraph {
     text-align: right;
+    margin-top: .3em;
     margin-bottom: .75em;
 }
 img {
     float: left;
     margin-right: 1em;
-    margin-bottom: .75em;
+    margin-bottom: 1em;
 }
 footer p {
     font-size: 90%;
